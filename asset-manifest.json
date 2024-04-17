@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/TextMaster/static/css/main.e9a3ad0a.css",
-    "main.js": "/TextMaster/static/js/main.4ed1f7c8.js",
+    "main.js": "/TextMaster/static/js/main.7b53ffa4.js",
     "static/js/787.917857b7.chunk.js": "/TextMaster/static/js/787.917857b7.chunk.js",
     "static/media/P.jpg": "/TextMaster/static/media/P.23ee8f124448e9784da8.jpg",
     "index.html": "/TextMaster/index.html",
     "main.e9a3ad0a.css.map": "/TextMaster/static/css/main.e9a3ad0a.css.map",
-    "main.4ed1f7c8.js.map": "/TextMaster/static/js/main.4ed1f7c8.js.map",
+    "main.7b53ffa4.js.map": "/TextMaster/static/js/main.7b53ffa4.js.map",
     "787.917857b7.chunk.js.map": "/TextMaster/static/js/787.917857b7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e9a3ad0a.css",
-    "static/js/main.4ed1f7c8.js"
+    "static/js/main.7b53ffa4.js"
   ]
 }
