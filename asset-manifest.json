@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SandipAajakiya/TextMaster/static/css/main.e9a3ad0a.css",
+    "main.js": "/SandipAajakiya/TextMaster/static/js/main.937cfd88.js",
+    "static/js/787.917857b7.chunk.js": "/SandipAajakiya/TextMaster/static/js/787.917857b7.chunk.js",
+    "static/media/P.jpg": "/SandipAajakiya/TextMaster/static/media/P.23ee8f124448e9784da8.jpg",
+    "index.html": "/SandipAajakiya/TextMaster/index.html",
+    "main.e9a3ad0a.css.map": "/SandipAajakiya/TextMaster/static/css/main.e9a3ad0a.css.map",
+    "main.937cfd88.js.map": "/SandipAajakiya/TextMaster/static/js/main.937cfd88.js.map",
+    "787.917857b7.chunk.js.map": "/SandipAajakiya/TextMaster/static/js/787.917857b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9a3ad0a.css",
+    "static/js/main.937cfd88.js"
+  ]
+}
